@@ -11,5 +11,5 @@ let areaTrapezio=function(teste1,teste2,teste3){
 return (teste1+teste2)*teste3/2
 
 }
-console.log areaTrapezio(1,2,3);
+console.log (areaTrapezio(1,2,3));
 
