@@ -13,7 +13,4 @@ return (teste1+teste2)*teste3/2
 }
 console.log (areaTrapezio(1,2,3));
 
-function valores(v1,v2,v3)
-{return v1+v2+v3/3
-}
-console.log(valores(1,2,3));
+let valores=function(d1,d2,d3){return (d1+d2+d3/3)}
