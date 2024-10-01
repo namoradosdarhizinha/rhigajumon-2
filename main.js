@@ -1,17 +1,4 @@
-function soma(number1,number2){
-    return number1+number2;
-}
-console.log(soma(1.2));
 
-function areaQuadrado(lado)
-{ return lado*lado;
-
-}
-let areaTrapezio=function(teste1,teste2,teste3){ 
-return (teste1+teste2)*teste3/2
-
-}
-console.log (areaTrapezio(1,2,3));
-
-let media=function(a,b,c){return (a+b+c/3)}
-console.log (media (a,b,c));
+letaula1 = ['rhianne','giuliana','ana','monize','gabriela','julia','caio','artur','vinicius','danilo','maria','marina','gabriel','adan','felipe','joao','amanda','luis','lorena','andrew']
+let i = 0;
+ while (i<10) { console.log(i); i=i+1;}
