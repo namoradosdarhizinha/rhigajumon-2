@@ -10,3 +10,11 @@ let i = 0;
     console.log(i);
     console.log(aula1[i]);
  }
+let idade = 20
+if(idade>20){
+    console.log('pode dirigir');
+
+}
+else {
+    console.log('ilegal dirigir');
+}
