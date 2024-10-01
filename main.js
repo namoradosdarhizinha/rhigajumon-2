@@ -6,7 +6,7 @@ let i = 0;
     console.log(aula1[i]); i++;
 }
 
- for (let i=0; i< aula1.lenght; i++) {
+ for (let i=0; i< aula1.length; i++) {
     console.log(i);
     console.log(aula1[i]);
  }
